@@ -1,4 +1,4 @@
-# Google_Analytics_Certification
+# Google Analytics Individual Qualification Certification
 I learned the course on Udemy to prepare for Google Analytics Individual Qualification Certification. (https://www.udemy.com/google-analytics-certification/). Thanks to Daragh Walsh, I passed the test and got the certification! Here is a summary of the basic knowledge points.
 
 
